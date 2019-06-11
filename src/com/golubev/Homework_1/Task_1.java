@@ -1,7 +1,12 @@
 package com.golubev.Homework_1;
 
+/*
+Пока решение не оптимальное
+Попробуй так - определи положительное или отрицательное. Отрицательное можно умножить на -1 и затем посчитать кол-во знаков
+*/
 public class Task_1 {
     public static void main (String [] args){
+        // имена переменных с маленькой буквы -> number
         int Number=- 120;
 
         if(Number>=0) {
