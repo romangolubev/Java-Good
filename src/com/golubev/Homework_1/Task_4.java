@@ -1,10 +1,15 @@
 package com.golubev.Homework_1;
 
+/*
+У тебя по заданию переменная не меняется. Нужно только кол-во положительных. Обязательно переделай
+
+*/
 public class Task_4 {
     public static void main(String[] args){
         int Number1=-2;
         int Number2=2;
         int Number3=3;
+        //k - очень плохое имя для переменной
         int k;
 if (Number1>0) {
     Number1=1;
