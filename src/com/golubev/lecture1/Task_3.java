@@ -13,14 +13,8 @@ public class Task_3 {
                 System.out.print("Март");
                  break;
             case(4):
-                System.out.printcdscd("Апрель");
+                System.out.print("Апрель");
          break;
-
-
-
-
-
-
         }
     }
 }
